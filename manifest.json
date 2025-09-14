@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Olá Mundo – Demo Estilizada",
+  "version": "1.1.3",
+  "description": "Popup simples com mensagem e botão estilizados (dark mode, acessibilidade, animações).",
+  "author": "Mateus Dias ❤️",
+  "action": {
+    "default_title": "Olá Mundo",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/16.png",
+      "32": "icons/32.png"
+    }
+  },
+  "icons": {
+    "16": "icons/16.png",
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  }
+}

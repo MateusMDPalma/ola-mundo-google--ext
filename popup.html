@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <title>Olá Mundo</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <main class="wrap">
+    <section class="card" aria-labelledby="titulo">
+      <header class="header">
+        <div class="dot"></div>
+        <h1 id="titulo">Demo</h1>
+      </header>
+
+      <p id="mensagem" class="mensagem" role="status" aria-live="polite">
+        Olá, mundo!
+      </p>
+
+      <button
+        id="botao"
+        type="button"
+        class="btn"
+        aria-pressed="false"
+        aria-describedby="ajuda"
+      >
+        Diga &quot;olá você também&quot;
+      </button>
+
+      <p id="ajuda" class="ajuda">
+        Clique para mudar a mensagem e a cor. Clique novamente para voltar.
+      </p>
+    </section>
+
+    <footer class="foot">
+      <small>Manifest V3 • Dark mode automático • A11y OK • por <strong class="autor">Mateus Dias ❤️</strong></small>
+    </footer>
+  </main>
+
+  <script src="popup.js" defer></script>
+</body>
+</html>
