@@ -1,6 +1,6 @@
 # Olá Mundo – Demo Estilizada (Chrome Extension)
 
-**Autor:** Mateus Dias ❤️
+**Autor:** Mateus Dias ❤
 
 Uma extensão de exemplo (Manifest V3) que mostra uma mensagem e um botão.
 Ao clicar, o botão muda de cor e a mensagem alterna entre **“Olá, mundo!”** e **“Bem‑vindo!”**.
