@@ -40,7 +40,7 @@ Projeto com foco em **acessibilidade**, **dark mode automático** e **animaçõe
 ```
 
 ## 🌐 GitHub Pages (landing page)
-Acesse a landing page: `https://<usuario>.github.io/<repo>/`
+Acesse a landing page: `[https://<usuario>.github.io/<repo>/](https://MateusMDPalma.github.io/ola-mundo-google--ext/)`
 
 **Como ativar:**
 - Vá em **Settings → Pages** do repositório.
